@@ -247,6 +247,7 @@ namespace MemoryCardGame.Core
 
         void OnGameCompleted()
         {
+            GameSession.LastResult = new GameResult(score, turns, totalPairs);
             SceneManager.LoadScene(SceneNames.Result);
         }
 
