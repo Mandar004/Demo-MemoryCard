@@ -248,6 +248,13 @@ namespace MemoryCardGame.Core
         void OnGameCompleted()
         {
             GameSession.LastResult = new GameResult(score, turns, totalPairs);
+
+            // Unlock the next level (next button) for this run, if any
+            if (GameSession.CurrentLevelIndex >= GameSession.MaxLevelUnlocked)
+            {
+                GameSession.MaxLevelUnlocked = GameSession.CurrentLevelIndex + 1;
+            }
+
             SceneManager.LoadScene(SceneNames.Result);
         }
 

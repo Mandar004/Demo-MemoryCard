@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6334229747784305145, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: -6979700473135302058, guid: d4ee1377030198c4fa433436088d103b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6334229747784305145, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: -4134562458106344008, guid: d4ee1377030198c4fa433436088d103b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -388,8 +388,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 210, y: 100}
-  m_SizeDelta: {x: 350, y: 130}
+  m_AnchoredPosition: {x: 265, y: 110}
+  m_SizeDelta: {x: 446.5, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1061848883
 MonoBehaviour:
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5253428492034465749, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: 4433539168102762298, guid: c39de0e61fd0c664eb651527397d6103, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -631,8 +631,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294942842
-  m_fontColor: {r: 0.4784314, g: 0.627451, b: 1, a: 1}
+    rgba: 4288674815
+  m_fontColor: {r: 1, g: 0.9843138, b: 0.62352943, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -761,7 +761,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4425041755021031608, guid: 2a513e3bfe431c94dacd73d004ba0eac, type: 3}
+  m_Sprite: {fileID: -6625292025278237347, guid: d4ee1377030198c4fa433436088d103b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -930,8 +930,8 @@ MonoBehaviour:
   star1: {fileID: 566761471}
   star2: {fileID: 2097075695}
   star3: {fileID: 23526678}
-  starFilled: {fileID: 6334229747784305145, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
-  starEmpty: {fileID: 4417804560647660910, guid: 348c901b7676f684db8be6284b6eb726, type: 3}
+  starFilled: {fileID: -6979700473135302058, guid: d4ee1377030198c4fa433436088d103b, type: 3}
+  starEmpty: {fileID: -8707550328243783131, guid: d4ee1377030198c4fa433436088d103b, type: 3}
   homeButton: {fileID: 1061848883}
   restartButton: {fileID: 2146411749}
 --- !u!1 &1596731496
@@ -994,7 +994,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8864788820530945603, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: -3651642625427892340, guid: 55082fc07e129df4a9ce82549b8d9f31, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1116,8 +1116,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294942842
-  m_fontColor: {r: 0.4784314, g: 0.627451, b: 1, a: 1}
+    rgba: 4288674815
+  m_fontColor: {r: 1, g: 0.9843137, b: 0.62352943, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1322,7 +1322,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6334229747784305145, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: -6979700473135302058, guid: d4ee1377030198c4fa433436088d103b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1375,8 +1375,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -210, y: 100}
-  m_SizeDelta: {x: 350, y: 130}
+  m_AnchoredPosition: {x: -250, y: 110}
+  m_SizeDelta: {x: 446.5, y: 175}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2146411749
 MonoBehaviour:
@@ -1442,7 +1442,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -2393242938714002295, guid: d77029aa9b7688a46b46bbe424b98aae, type: 3}
+  m_Sprite: {fileID: -5841048491687683651, guid: 3aac4f70f7a9bfe4f9beb3d4ffa39b42, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

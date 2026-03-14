@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: d4ee1377030198c4fa433436088d103b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6625292025278237347
+    second: NewModernUI_0
+  - first:
+      213: -8955273748501232178
+    second: NewModernUI_1
+  - first:
+      213: 4752801228665674216
+    second: NewModernUI_2
+  - first:
+      213: -3071825160944519920
+    second: NewModernUI_3
+  - first:
+      213: 5160867337607081145
+    second: NewModernUI_4
+  - first:
+      213: 3810120137666294008
+    second: NewModernUI_5
+  - first:
+      213: -4403790624531086387
+    second: NewModernUI_6
+  - first:
+      213: 3169330645192992095
+    second: NewModernUI_7
+  - first:
+      213: 2731440599735233982
+    second: NewModernUI_8
+  - first:
+      213: 3200025275844434564
+    second: NewModernUI_9
+  - first:
+      213: -6441506949588918722
+    second: NewModernUI_10
+  - first:
+      213: -7747536372875847615
+    second: NewModernUI_11
+  - first:
+      213: -6709288783546540432
+    second: NewModernUI_12
+  - first:
+      213: -6979700473135302058
+    second: NewModernUI_13
+  - first:
+      213: -4134562458106344008
+    second: NewModernUI_14
+  - first:
+      213: 1291216451764893317
+    second: NewModernUI_15
+  - first:
+      213: 3683275643683725926
+    second: NewModernUI_16
+  - first:
+      213: -7332253783016036162
+    second: NewModernUI_17
+  - first:
+      213: -7001490564667251650
+    second: NewModernUI_18
+  - first:
+      213: -2765451869563465733
+    second: NewModernUI_19
+  - first:
+      213: 8199487651096106999
+    second: NewModernUI_20
+  - first:
+      213: -5047933666354032004
+    second: NewModernUI_21
+  - first:
+      213: -7785454643657867751
+    second: NewModernUI_22
+  - first:
+      213: -6323406244543613088
+    second: NewModernUI_23
+  - first:
+      213: 3423944594321016608
+    second: NewModernUI_24
+  - first:
+      213: 5441300288163851083
+    second: NewModernUI_25
+  - first:
+      213: -3408921097420094916
+    second: NewModernUI_26
+  - first:
+      213: -8124288323547479237
+    second: NewModernUI_27
+  - first:
+      213: -8707550328243783131
+    second: NewModernUI_28
+  - first:
+      213: 302049261756372370
+    second: NewModernUI_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewBG
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 597
+        width: 876
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ff0c510c3e04a0800000000000000
+      internalID: -6625292025278237347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueButton
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 253
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5043a09f978b380800000000000000
+      internalID: -8955273748501232178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 589
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e958aa398755f140800000000000000
+      internalID: 4752801228665674216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0157bc59a4fae55d0800000000000000
+      internalID: -3071825160944519920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonHome
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 426
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc6cf600851f9740800000000000000
+      internalID: 5160867337607081145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Score
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 723
+        width: 528
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0792d041440e430800000000000000
+      internalID: 3810120137666294008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reload
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 424
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc301af52c792e2c0800000000000000
+      internalID: -4403790624531086387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 425
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ec721e69bbfb20800000000000000
+      internalID: 3169330645192992095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PinkButton
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 425
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a9afea806c86c20800000000000000
+      internalID: 3200025275844434564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GreenButton
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 425
+        width: 250
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eda83de8b2b96a0800000000000000
+      internalID: -6441506949588918722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 350
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148115297b83b7490800000000000000
+      internalID: -7747536372875847615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star2Filled
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 235
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65af424566f132f90800000000000000
+      internalID: -6979700473135302058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star1Filled
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 236
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdc7e6a9551f96c0800000000000000
+      internalID: -4134562458106344008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_15
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1
+        width: 190
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586369f85825be110800000000000000
+      internalID: 1291216451764893317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_16
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 232
+        width: 196
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662ed9fdeaf9d1330800000000000000
+      internalID: 3683275643683725926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a054480a9e3a90800000000000000
+      internalID: -7332253783016036162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 306
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3462ca4d65b5de90800000000000000
+      internalID: -7001490564667251650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 279
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffca373d242f99d0800000000000000
+      internalID: -2765451869563465733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 277
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f719cf639e6ac170800000000000000
+      internalID: 8199487651096106999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 246
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e7bdd204284f390800000000000000
+      internalID: -7785454643657867751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067bd7ff58fbe38a0800000000000000
+      internalID: -6323406244543613088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 68
+        width: 166
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0278f1bb77b448f20800000000000000
+      internalID: 3423944594321016608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_25
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 94
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bac3868c1638b40800000000000000
+      internalID: 5441300288163851083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackStar
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c0f8b25411b0d0800000000000000
+      internalID: -3408921097420094916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackStar2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33491660dab04f80800000000000000
+      internalID: -8124288323547479237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NoFilledStar
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 67
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a713d6c11982780800000000000000
+      internalID: -8707550328243783131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewModernUI_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29558a70438113400800000000000000
+      internalID: 302049261756372370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ab4660e6ea9aa5b43a8ead98838eca0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlackStar: -3408921097420094916
+      BlackStar2: -8124288323547479237
+      BlueButton: -8955273748501232178
+      ButtonHome: 5160867337607081145
+      Close: 3423944594321016608
+      GreenButton: -6441506949588918722
+      NewBG: -6625292025278237347
+      NewModernUI_11: -7747536372875847615
+      NewModernUI_12: -6709288783546540432
+      NewModernUI_15: 1291216451764893317
+      NewModernUI_16: 3683275643683725926
+      NewModernUI_17: -7332253783016036162
+      NewModernUI_18: -7001490564667251650
+      NewModernUI_19: -2765451869563465733
+      NewModernUI_2: 4752801228665674216
+      NewModernUI_20: 8199487651096106999
+      NewModernUI_21: -5047933666354032004
+      NewModernUI_22: -7785454643657867751
+      NewModernUI_23: -6323406244543613088
+      NewModernUI_25: 5441300288163851083
+      NewModernUI_29: 302049261756372370
+      NewModernUI_3: -3071825160944519920
+      NewModernUI_8: 2731440599735233982
+      NoFilledStar: -8707550328243783131
+      PinkButton: 3200025275844434564
+      Play: 3169330645192992095
+      Reload: -4403790624531086387
+      Score: 3810120137666294008
+      Star1Filled: -4134562458106344008
+      Star2Filled: -6979700473135302058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

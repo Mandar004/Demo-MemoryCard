@@ -83,9 +83,22 @@ namespace MemoryCardGame.UI
 
             if (value)
             {
-                SetRevealed(true);
+                // Hide this card visually but keep its slot in the grid
+                if (frontImage != null)
+                {
+                    frontImage.gameObject.SetActive(false);
+                }
+
+                if (backImage != null)
+                {
+                    backImage.gameObject.SetActive(false);
+                }
+
                 SetInteractable(false);
-                gameObject.SetActive(false); // hide matched pair from board
+                if (canvasGroup != null)
+                {
+                    canvasGroup.alpha = 0f;
+                }
             }
         }
 
